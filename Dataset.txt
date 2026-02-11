@@ -1,0 +1,3 @@
+Below is the Google Drive folder link for the complete Food Dataset used in the MobileNetV2 Food Spoilage Detection project:
+
+https://drive.google.com/drive/folders/1vFObaUlQzQ_I8H1AtdyYDNwvDdcoJAEI?usp=sharing
